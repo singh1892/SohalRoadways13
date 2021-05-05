@@ -1,0 +1,9 @@
+.Data {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#Data th,
+td {
+    white-space: nowrap;
+}

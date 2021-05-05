@@ -1,0 +1,20 @@
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+    padding: 2rem;
+    font-family: 'Abril Fatface',
+        cursive;
+    font-family: 'Bangers',
+        cursive;
+    font-family: 'Zen Dots',
+        cursive;
+
+}
+
+form-row {
+
+    display: flex;
+    justify-content: flex-start;
+
+}

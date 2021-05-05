@@ -1,0 +1,23 @@
+.form-container {
+    position: absolute;
+    top: 15vh;
+    background: #fff;
+    padding: 30px;
+    border: 10px;
+    box-shadow: 0px 0px 10px 0px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, .8);
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Zen Dots', cursive;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url('images/Prima6.jpg') no-repeat;
+    background-size: cover;
+}
+
+.form-group {
+    color: #007bff;
+}
